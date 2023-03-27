@@ -4,7 +4,7 @@
 
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-Desenvolvi **carrinho de compras** totalmente dinâmico! 🛒
+Desenvolvi um **carrinho de compras** totalmente dinâmico! 🛒
 
 Para isso, consumi dados diretamente de uma **API!** 🤩
 
